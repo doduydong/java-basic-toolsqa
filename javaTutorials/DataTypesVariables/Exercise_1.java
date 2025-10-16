@@ -1,4 +1,4 @@
-package JavaTutorials;
+package DataTypesVariables;
 
 public class Exercise_1 {
 

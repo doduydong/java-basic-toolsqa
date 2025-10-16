@@ -1,6 +1,6 @@
-package JavaTutorials;
+package DataTypesVariables;
 
-public class PrintPattern {
+public class J_02_PrintPattern {
 
     static void main() {
         System.out.println("++++++");
